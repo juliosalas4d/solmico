@@ -1,0 +1,39 @@
+/*
+ * Estructura básica para la aplicación de SOLMICO
+ */
+
+/* El navbar ocupara 50px por ello desplazamos el contenido por ese valor */
+body {
+  padding-top: 0px;
+}
+
+}
+
+/*
+ * Contenido principal
+ */
+.main {
+  padding: 20px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+.main .page-header {
+  margin-top: 0;
+}
+
+//
+// Tables
+//
+
+table {
+  border-collapse: collapse; // Prevent double borders
+}
+
+caption {
+  caption-side: top;
+  text-align: center;
+}
