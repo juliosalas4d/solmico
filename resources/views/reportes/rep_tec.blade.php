@@ -160,7 +160,7 @@
             <img src="{{ public_path('images/SOLMICO.png') }}" alt="{{ setting('site.title') }}" title="{{ setting('site.title') }}" style='width:100.0pt;height:15.0pt'><br>
             {{ setting('site.rif')}}
           </td>
-          <td colspan=2 class=titulo_head>BOLETÍN TÉCNICO</td>
+          <td colspan=2 class=titulo_head>BOLETÍN TÉCNICO DE PRODUCTOS</td>
           <td class=head>FGC-xxx <br>
             Ver.0 10/2019
           </td>
